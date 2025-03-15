@@ -9,3 +9,48 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.Body{
+    background-image: url("https://preview.redd.it/one-point-perspective-drawing-of-the-city-v0-k5sly1tv7jde1.png?auto=webp&s=957d1e9197e49440df90b7ef6185a44002826a17");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+   }
+.stick{
+    height: 100px;
+    width: 10px;
+    background: black;
+    justify-self: center;
+    margin-right: 40px;
+}
+.lightgroup{
+    height: 650px;
+    width: 200px;
+    background: black;
+    justify-self: center;
+    border-radius: 25px;
+    padding: 10px;
+    margin-right: 40px;
+}
+.red.light{
+    background: red;
+    border-radius: 50%;
+    height: 180px;
+    margin-top: 20px;
+}
+.yellow.light{
+    background: yellow;
+    border-radius: 50%;
+    height: 180px;
+    margin-top: 20px;
+}   
+.green.light{
+    background: green;
+    border-radius: 50%;
+    height: 180px;
+    margin-top: 20px;
+}
+.glowy{
+    box-shadow: 0px 0px 46px 39px yellow;
+}
