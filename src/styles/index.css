@@ -10,19 +10,22 @@
 
 */
 .Body{
-    background-image: url("https://preview.redd.it/one-point-perspective-drawing-of-the-city-v0-k5sly1tv7jde1.png?auto=webp&s=957d1e9197e49440df90b7ef6185a44002826a17");
-    background-repeat: no-repeat;
+    background-image: url("https://www.shutterstock.com/image-illustration/scenery-one-point-perspective-city-600nw-2241974813.jpg");
     background-size: contain;
     background-position: center;
-    width: 100vw;
+    background-repeat: no-repeat;
     height: 100vh;
+    width: 100vw;
+    margin: 0%;
+    
+
    }
 .stick{
     height: 100px;
     width: 10px;
     background: black;
     justify-self: center;
-    margin-right: 40px;
+    
 }
 .lightgroup{
     height: 650px;
@@ -31,7 +34,7 @@
     justify-self: center;
     border-radius: 25px;
     padding: 10px;
-    margin-right: 40px;
+    
 }
 .red.light{
     background: red;
